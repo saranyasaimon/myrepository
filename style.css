@@ -1,0 +1,139 @@
+ul.fh { list-style-type: none; margin-left: 27%; padding: 0; overflow: hidden;
+    background-color: rgb(33, 73, 50);top: 0;width: 100%;}
+
+li.lil { float: left; }
+
+li.lil a { align-items: center;display: block;color: rgb(153, 151, 151);
+    font-size: 70%;padding: 14px 16px;text-decoration: none; }
+
+li.lil a:hover { background-color: rgb(1, 36, 24); }
+
+li.lil a:active { background-color: rgb(9, 145, 99); }
+
+nav.navbar { margin-top: 3%; }
+
+#myform { list-style-type: none;margin: 0;padding: 0;overflow: hidden;
+    background-color: white;top: 0;width: 100%; }
+
+#lala { margin-left: 35%; font-family: 'Times New Roman', Times, serif ;}
+#labl { margin-left: 35%; font-family: 'Times New Roman', Times, serif;}
+
+#myf { list-style-type: none;margin: 0;padding: 0;overflow: hidden;
+    background-color: white;top: 0;width: 100%; }
+
+div.gallery { margin: 5px;border: 1px solid #ccc;float: left;width: 180px; }
+  
+  div.gallery:hover { border: 5px solid rgb(98, 223, 181); }
+  
+  div.gallery img { width: 100%;height: auto; }
+  
+  div.desc {padding: 15px;text-align: center; }
+
+#blue { list-style-type: none;margin: 0;padding: 0;overflow: hidden;
+    background-image: url(blue.jpg);background-repeat: no-repeat;background-size: cover;
+    top: 0;width: 100%;justify-content: center; }
+
+ul.new { list-style-type: none;margin: 0;padding: 0;
+    overflow: hidden;top: 0;width: 100%; }
+
+li.lilly { float: left;justify-content: center;
+    margin-top: 10%;margin-left: 0%;margin-bottom: 10%; }
+
+li.lilly a:hover { background-color: rgb(9, 145, 99); }
+
+li.lilly a:active { background-color: rgb(1, 36, 24); }
+ a#hol { align-items: center;display: block;color: rgb(153, 151, 151)hite;font-size: 200%;
+    justify-items: center;padding: 14px 16px;text-decoration: none; }
+
+label#holi { align-items: center; display: block; color: rgb(153, 151, 151); 
+    font-family: 'Times New Roman', Times, serif;font-size: 100%;
+    justify-items: center;padding: 14px 16px;text-decoration: none; }
+
+h3#holiday { margin-top: 3%;color: rgb(153, 151, 151);font-family: 'Times New Roman', Times, serif;
+    font-size: 125%;margin-left: 40%; }
+
+label#lbl { color: rgb(153, 151, 151);font-family: 'Times New Roman', Times, serif;
+    font-size: 75%;margin-left: 37%; }
+
+#med {
+    list-style-type: none;margin: 0;padding: 0;overflow: hidden;
+    background-color: white;top: 0;width: 100%;justify-content: center; }
+
+h3#client { margin-top: 3%;color: black;font-family: 'Times New Roman', Times, serif;
+    font-size: 125%;margin-left: 40%; }
+
+label#clie { color: black;font-family: 'Times New Roman', Times, serif;
+    font-size: 75%;margin-left: 37%; }
+
+#med { list-style-type: none;margin: 0;padding: 0;overflow: hidden;
+    background-color: white;top: 0;width: 100%; }
+div.media { float: left;margin-left: 5%;margin-bottom: 10%;
+    font-family: 'Times New Roman', Times, serif;margin: 5px;border: 1px solid #817d7d;
+    height: 10%; width: 22%; }
+  
+  div.media:hover {border: 3px solid rgb(98, 223, 181); }
+
+  div.slast { list-style-type: none;display: inline-block;margin: 5px;
+    padding: 0;overflow: hidden;background-color: rgb(33, 73, 50);
+    position: fixed;top: 0;width: 100%; }
+
+div.mediaa { margin-left: 5%;margin-bottom: 10%;font-family: 'Times New Roman', Times, serif;
+    width: 80%; height: 20%; }
+
+div.mediaa:hover { border: 3px solid rgb(98, 223, 181); }
+
+div.mediaa:active { border: 3px solid rgb(5, 112, 67); }
+div.ssslast { float: left; }
+.two, .three, .four, .five { float: left; font-family: 'Times New Roman', Times, serif;
+    font-size: 150%;margin: 6px;width: 24%;height: 10%; }
+
+#h6 {color: rgb(45, 206, 131); font-size: 75%; }
+
+#lulu { color: rgb(153, 151, 151); font-size: 45%; }
+
+div.fhhh { list-style-type: none; margin-left: 40%;padding: 0;overflow: hidden;
+    background-color: rgb(33, 73, 50);top: 0;width: 100%; }
+
+ul.ffhh { list-style-type: none;margin-left: 0%;padding: 0;
+    overflow: hidden;background-color: rgb(33, 73, 50);top: 0;width: 100%; }
+    
+li.lilu { float: left; }
+    
+li.lilu a {align-items: center; display: block;color: rgb(153, 151, 151);
+    font-size: 70%;padding: 14px 16px;margin-left: 0;text-decoration: none; }
+
+ul.fhh { list-style-type: none;margin-left: 27%;padding: 0;
+    overflow: hidden;background-color: rgb(33, 73, 50);top: 0;width: 100%; }
+
+li.lili { float: left; }
+
+li.lili a {align-items: center; display: block;color: rgb(153, 151, 151);
+    font-size: 70%;padding: 14px 16px;margin-left: 0%;text-decoration: none; }
+
+li.lili a:hover { background-color: rgb(1, 36, 24); }
+li.lili a:active { background-color: rgb(9, 145, 99); }
+
+ul.up { list-style-type: none;margin-left: 50%;padding: 0;overflow: hidden;
+    background-color: rgb(33, 73, 50);top: 0;width: 100%; }
+
+body#regreg { background-image: url(register2.jpg);background-repeat: no-repeat;
+    background-size: cover; }
+
+form#myreg { background: url(register1.7.jpg) left no-repeat, white right no-repeat;
+    font-family: serif; font-style: normal;margin-top: 5%;margin-left: 11%;
+    margin-bottom: 5%;border-radius: 12px; border-color: rgb(39, 37, 37); 
+    padding: 10px; width: 80%;height: 40%; opacity: 0.9; }
+
+div.newform { margin-top: 0%; margin-left: 50%; margin-bottom: 6%; }
+
+input[type=text] { width: 100%; padding: 12px 20px;margin: 8px 0;
+    box-sizing: border-box;border: none;border-bottom: 2px solid rgb(119, 57, 131); }
+
+input[type=email] { width: 100%; padding: 12px 20px;margin: 8px 0;
+    box-sizing: border-box;border: none;border-bottom: 2px solid rgb(119, 57, 131); }
+
+input[type=number] { width: 100%; padding: 12px 20px; margin: 8px 0;
+    box-sizing: border-box;border: none;border-bottom: 2px solid rgb(119, 57, 131); }
+
+input[type=password] { width: 100%;padding: 12px 20px;margin: 8px 0;
+    box-sizing: border-box;border: none;border-bottom: 2px solid rgb(119, 57, 131); }
